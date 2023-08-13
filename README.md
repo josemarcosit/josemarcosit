@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm José from Brazil.
 
-I'm a Software Developer/ Engineer.
+I'm a Software Developer / Engineer.
 
 I've been working in tech since 2008.
 
