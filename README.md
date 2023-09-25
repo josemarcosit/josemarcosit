@@ -1,4 +1,4 @@
-### 👋 Hi, I'm José from Brazil.
+### 👋🏾 Hi, I'm José from Brazil.
 
 I'm a Software Developer / Engineer.
 
